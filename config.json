@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "title": "Image Blocks",
+        "description": "Look at a series of images and answer questions about them",
+        "disclaimer": "Your participation in this research is voluntary. You may decline further participation, at any time, without adverse consequences. Your anonymity is assured; the researchers who have requested your participation will not receive any personal information about you."
+    },
+    "instructions": {
+        "simple": "Look at the images",
+        "steps": [
+            "You will be shown several paired blocks of images.",
+            "During each block the images will change automatically after a fixed time.",
+            "After each pair of blocks you will be asked several questions you will have to answer."
+        ],
+        "images": ["demo_face_sentinels.gif"]
+    },
+    "advanced": {
+        "includeDemographicSurvey": true,
+        "hideIfNotAccepted": true,
+        "externalSubmit": false,
+        "externalSubmitUrl": ""
+    }
+}

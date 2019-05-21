@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "title": "Image blocks",
+        "description": "Watch several blocks of images and answer questions about them",
+        "numSubtasks": 10,
+        "disclaimer": "This is a disclaimer. You are participating in this experiment voluntarily.",
+        "aggregate": false
+    },
+    "instructions": {
+        "simple": "These are simple instructions for <b>3</b> tasks",
+        "steps": [
+            "instruction1",
+            "instruction2",
+            "instruction3"
+        ],
+        "images": []
+    },
+    "hitCreation": {
+        "title": "Image blocks",
+        "description": "Watch several blocks of images and answer questions about them",
+        "numTasks": 25,
+        "numAssignments": 1,
+        "rewardAmount": "2.00",
+        "keywords": "images, 2D, questions",
+        "duration": 4000,
+        "lifetime": 86400,
+        "taskUrl": "https://smalpica.github.io/spatialContrastWebSurvey/",
+        "variants": []
+    },
+    "advanced": {
+        "includeDemographicSurvey": false,
+        "hideIfNotAccepted": false,
+        "externalSubmit": false,
+        "externalSubmitUrl": ""
+    }
+}
